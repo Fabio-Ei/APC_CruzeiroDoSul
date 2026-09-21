@@ -1,4 +1,4 @@
-Nome: Fabio Eidi Yokomizo     RGM: 4948082
+Nome: Fabio Eidi Yokomizo
 
 # Explicação
 
