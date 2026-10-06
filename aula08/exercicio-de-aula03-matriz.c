@@ -14,7 +14,7 @@ int main()
     
     for(i = 0; i < 3; i++) {
         for(j = 0; j < 4; j++) {
-            printf("O valor da venda[%d][%d] é: %d", i, j, vendas[i][j]);
+            printf("O valor da venda[%d][%d] é: %d\n", i, j, vendas[i][j]);
         }
     }
     
