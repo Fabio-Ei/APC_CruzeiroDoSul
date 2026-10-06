@@ -5,11 +5,11 @@ Nome:
 ## Instruções
 
 - Baixe a pasta projeto2_interface_express e veja se todos os arquivos dentro da pasta estão instalados desta forma:
-projeto2_interface_express/
-├── index.html
-├── README.md
-├── css/
-│ └── estilo.css
+projeto2_interface_express/  
+├── index.html  
+├── README.md  
+├── css/  
+│ └── estilo.css  
 - Clique no index.html para abrir com o navegador.
 
 ## Prompt utilizado
